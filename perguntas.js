@@ -1,35 +1,35 @@
 criaCartao(
     'Futebol',
-    'Qual seleção tem mais copas do mundo?',
-    'Brasil'
+    'Quem é o maior artilheiro da história das Copas do Mundo?',
+    'Miroslav Klose'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'História',
+    'Em que ano o homem pisou na Lua pela primeira vez?',
+    '1969'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Geografia',
+    'Qual é o ponto mais alto da Terra?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Ciência',
+    'Qual é o planeta mais próximo do Sol?',
+    'Mercúrio'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Tecnologia',
+    'Quem é o criador da linguagem de programação Java?',
+    'James Gosling'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Cinema',
+    'Qual filme ganhou o Oscar de Melhor Filme em 1994?',
+    'Forrest Gump'
 )
