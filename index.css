@@ -2,59 +2,94 @@
 <html lang="pt-br">
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1,0">
-<link rel="stylesheet" href="style.css">
-<title>flashcard</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>flashcard</title>
 </head>
 
 <body>
-<main>
-<section id="container">
-<article class="cartao">
-<div class="cartao_conteudo">
-<h3> programação</h3>
-<div class="cartao_conteudo_pergunta">
-<p>O que é javascript?</p>
-</div>
-<div class="cartao_cartao_resposta">
-<p> o javascript é uma linguagem de programação</p>
-</div>
-</div>
-</article>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao_conteudo">
+                    <h3>Futebol</h3>
+                    <div class="cartao_conteudo_pergunta">
+                        <p>Quem é o maior artilheiro da história das Copas do Mundo?</p>
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        <p>Miroslav Klose</p>
+                    </div>
+                </div>
+            </article>
 
-<article class="cartao">
-<div class="cartao_conteudo">
-<h3>programação</h3>
-<div class="cartao_conteudo_pergunta">
-<p>o que é css?</p>
-</div>
-<div class="cartao_conteudo_resposta">
-<p> o javascript é uma linguagem de estilo</p>
-</div>
-</div>
-</article>
+            <article class="cartao">
+                <div class="cartao_conteudo">
+                    <h3>História</h3>
+                    <div class="cartao_conteudo_pergunta">
+                        <p>Em que ano o homem pisou na Lua pela primeira vez?</p>
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        <p>1969</p>
+                    </div>
+                </div>
+            </article>
 
-<article class="cartao">
-<div class="cartao_conteudo">
-<h3>programação</h3>
-<div class="cartao_conteudo_resposta">
-<p> o que é html?</p>
-</div>
-<div class="cartao_conteudo_resposta">
-<p>o javascript é uma lingbuagem de marcação</p>
-</div>
-</div>
-</article>-->
-</section>
-</main>
-<footer>
-<p>projeto desenvolvido por anna karolyna 2B </p>
-</footer>
-<scrippt src="app.js"></script>
-<script src="perguntas.js"></script>
+            <article class="cartao">
+                <div class="cartao_conteudo">
+                    <h3>Geografia</h3>
+                    <div class="cartao_conteudo_pergunta">
+                        <p>Qual é o ponto mais alto da Terra?</p>
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        <p>Monte Everest</p>
+                    </div>
+                </div>
+            </article>
+
+            <article class="cartao">
+                <div class="cartao_conteudo">
+                    <h3>Ciência</h3>
+                    <div class="cartao_conteudo_pergunta">
+                        <p>Qual é o planeta mais próximo do Sol?</p>
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        <p>Mercúrio</p>
+                    </div>
+                </div>
+            </article>
+
+            <article class="cartao">
+                <div class="cartao_conteudo">
+                    <h3>Tecnologia</h3>
+                    <div class="cartao_conteudo_pergunta">
+                        <p>Quem é o criador da linguagem de programação Java?</p>
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        <p>James Gosling</p>
+                    </div>
+                </div>
+            </article>
+
+            <article class="cartao">
+                <div class="cartao_conteudo">
+                    <h3>Cinema</h3>
+                    <div class="cartao_conteudo_pergunta">
+                        <p>Qual filme ganhou o Oscar de Melhor Filme em 1994?</p>
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        <p>Forrest Gump</p>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>projeto desenvolvido por anna karolyna 2B</p>
+    </footer>
+    <script src="app.js"></script>
+    <script src="perguntas.js"></script>
 </body>
 
 </html>
-
-
