@@ -101,8 +101,8 @@ footer p {
     }
 
     .cartao {
-        flex: 1 0 calc(40% - 1rem);
-        heigth:45vw;
+        flex: 1 0 calc(100% - 1rem);
+        
     }
 
     .cartao_conteudo h3 {
